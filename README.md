@@ -5,3 +5,8 @@ My name is Adewale Oriyomi George, and I am a dedicated Virtual Assistant and En
 ## Learning: Git & GitHub
 
 I recently completed a course on Git and GitHub covering repositories, branching, commits, and pull-request workflows. These skills help me manage project history, collaborate effectively, and follow professional development workflows.
+
+
+## Contributors
+
+- Adewale Oriyomi George
